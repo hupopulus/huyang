@@ -1,2 +1,3 @@
 print 'huyang'
-print 'hello world'
+print 'huhuhuhuhuhuhuhuhu'
+print 'lalalalalalala'
